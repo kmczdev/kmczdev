@@ -1,5 +1,9 @@
-## Hi there 👋
+## 👾 bonjour 👾
 
+💻 | soc analyst @ gamo a.s.
+🧩 | cybersecurity, automation, running, occasional ctf player
+
+📧 | contact@kristianzetocha.com
 <!--
 **kmczdev/kmczdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
