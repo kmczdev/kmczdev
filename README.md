@@ -1,6 +1,7 @@
 ## 👾 bonjour 👾
 
 💻 | soc analyst @ gamo a.s.
+
 🧩 | cybersecurity, automation, running, occasional ctf player
 
 📧 | contact@kristianzetocha.com
